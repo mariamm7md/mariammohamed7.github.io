@@ -62,7 +62,7 @@ B.Sc. in Computer Science | **Grade: B+ with Honors (3.59 / 4.0)**
 
 ## Projects
 
-**Power BI – Brazilian Sales Dashboard**  
+**Power BI – Brazilian Sales Dashboard(https://drive.google.com/drive/folders/1lPshpYPu4TaEPegxuORqsDG7iUhBe87u)**  
 Analyzed 8,000+ sales records; tracked revenue by region and product, identifying **12% growth potential**.  
 
 **Power BI – Netflix Dashboard**  
