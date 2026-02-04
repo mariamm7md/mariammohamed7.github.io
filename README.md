@@ -2,8 +2,6 @@
 Check out my personal portfolio showcasing my projects:  
 🌐 [Visit Website](https://mariammohamed7.netlify.app/)
 
-![Portfolio Screenshot](images/portfolio.png)
-
 # Mariam Mohamed Eltras
 **Entry-Level Data Analyst | Data Entry Specialist**
 
